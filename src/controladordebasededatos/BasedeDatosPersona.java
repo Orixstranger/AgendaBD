@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Ferchitoo
+ * @author OrixStranger
  */
 public class BasedeDatosPersona extends javax.swing.JFrame {
 
